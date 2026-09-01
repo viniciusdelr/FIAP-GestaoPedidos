@@ -1,5 +1,6 @@
 # API de Gestão de Pedidos
 
+
 Projeto desenvolvido para a atividade de pós-graduação em Arquitetura de Sistemas .NET. O objetivo é demonstrar, na prática, qualidade de software em um projeto ASP.NET Core (.NET 8): domínio rico modelado com **DDD tático**, organizado em **Clean Architecture**, com **testes automatizados** (cenários de sucesso e de erro) e uma **pipeline de CI** no GitHub Actions que executa os testes e publica a cobertura de código. O foco do trabalho está na arquitetura e no design do domínio, não em um simples CRUD.
 
 ## Objetivo da atividade
